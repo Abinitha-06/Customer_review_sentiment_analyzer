@@ -12,11 +12,27 @@ This project performs sentiment analysis on customer reviews to predict whether 
 - **Bulk Analysis**: Analyze multiple reviews at once with visual charts
 - **Dark Mode Toggle**: Modern UI with theme switching capability
 
+## 📸 Project Screenshots
+
+### Home Page
+![Home](assets/home.png)
+
+### Prediction Result
+![Result_for_bulk_reviews](assets/sentiment distribution.png)
+![Result_for_single_review](assets/sentiment gauge.png)
+
+### Analysis
+![Classification](assests/classification.png)
+
+### Dashboard
+![Toggle](assets/toggle.png)
+
 ## � Demo Video
 
 [![Watch Demo](thumbnail.png)](https://drive.google.com/file/d/12LFeUSM0vlX8w9ej6R0QjUXo4g6w_hM4/view?usp=drive_link)
 
 *Click the image above to watch a demo of the Customer Review Sentiment Analysis application in action!*
+
 
 ## �🎯 Objective
 
