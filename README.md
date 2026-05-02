@@ -18,11 +18,12 @@ This project performs sentiment analysis on customer reviews to predict whether 
 ![Home](assets/home.png)
 
 ### Prediction Result
-![Result_for_bulk_reviews](assets/sentiment distribution.png)
-![Result_for_single_review](assets/sentiment gauge.png)
+![Result_for_bulk_reviews](assets/sentiment_distribution.png)
+
+![Result_for_single_review](assets/sentiment_gauge.png)
 
 ### Analysis
-![Classification](assests/classification.png)
+![Classification](assets/classification.png)
 
 ### Dashboard
 ![Toggle](assets/toggle.png)
