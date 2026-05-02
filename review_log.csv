@@ -1,0 +1,83 @@
+Timestamp,Review,Sentiment,Confidence
+2026-03-23 14:06:38,good,positive,40.3%
+2026-03-23 14:09:17,very good and statisfying one,positive,40.3%
+2026-03-23 14:09:28,vey bad,negative,51.6%
+2026-03-25 18:43:42,"Good product,money worth.",positive,67.4%
+2026-03-25 18:56:36,good,positive,38.4%
+2026-03-25 18:56:36,bad,neutral,48.2%
+2026-03-25 18:56:36,worst,negative,86.7%
+2026-03-25 18:56:36,ok,positive,38.4%
+2026-03-25 19:04:41,good,positive,38.4%
+2026-03-25 19:04:41,bad,neutral,48.2%
+2026-03-25 19:04:41,okay,neutral,85.4%
+2026-03-25 19:04:41,worst,negative,86.7%
+2026-03-25 19:11:51,good,positive,38.4%
+2026-03-25 19:12:38,good,positive,38.4%
+2026-03-25 19:12:42,good,positive,38.4%
+2026-03-25 19:12:50,good,positive,38.4%
+2026-03-25 19:12:50,bad,neutral,48.2%
+2026-03-26 18:19:11,nice one.,positive,38.4%
+2026-03-26 18:19:11,very bad.,neutral,48.2%
+2026-03-26 18:19:11,ok.,positive,38.4%
+2026-03-26 18:32:20,"perfect product,nice looking,money worthy.",positive,77.0%
+2026-03-26 18:32:43,nice.,positive,38.4%
+2026-03-26 18:32:43,"bad,",neutral,48.2%
+2026-03-26 18:32:43,ok,positive,38.4%
+2026-03-26 18:42:33,good.,positive,38.4%
+2026-03-26 18:42:33,bad.,neutral,48.2%
+2026-03-26 18:42:33,ok.,positive,38.4%
+2026-03-26 18:50:12,good,positive,38.4%
+2026-03-26 18:50:28,good,positive,38.4%
+2026-03-26 18:50:28,ok,positive,38.4%
+2026-03-26 18:50:28,bad,neutral,48.2%
+2026-03-26 18:51:09,good,positive,38.4%
+2026-03-26 18:51:09,very bad,neutral,48.2%
+2026-03-26 18:51:09,ok,positive,38.4%
+2026-03-26 18:51:18,good,positive,38.4%
+2026-03-26 18:51:18,very bad,neutral,48.2%
+2026-03-26 18:51:18,ok,positive,38.4%
+2026-03-26 18:51:34,very good,positive,38.4%
+2026-03-26 18:51:34,worst product,negative,86.7%
+2026-03-26 18:51:34,ok,positive,38.4%
+2026-03-26 18:52:48,Good product,positive,38.4%
+2026-03-26 18:52:48,Bad quality,negative,55.2%
+2026-03-26 18:52:48,Average item,neutral,86.2%
+2026-03-26 18:52:49,Loved it,positive,80.0%
+2026-03-26 18:52:49,Not worth the price,positive,67.4%
+2026-03-26 18:52:49,It's okay,neutral,85.4%
+2026-03-26 18:53:59,"The product is okay, nothing special",neutral,85.4%
+2026-03-26 18:54:33,!!! Amazing product $$$,positive,80.7%
+2026-03-26 18:54:56,I bought this product last week and overall it works fine but not very impressive,neutral,86.0%
+2026-03-27 18:25:59,Good product,positive,38.4%
+2026-03-27 18:25:59,Bad quality,negative,55.2%
+2026-03-27 18:25:59,Average item,neutral,86.2%
+2026-03-27 18:25:59,Loved it,positive,80.0%
+2026-03-27 18:25:59,Not worth the price,positive,67.4%
+2026-03-27 18:25:59,It's okay,neutral,85.4%
+2026-03-27 18:26:36,It works fine but could be better,neutral,86.0%
+2026-03-27 18:35:21,This product is amazing,positive,80.7%
+2026-03-27 18:35:21,Very bad experience,neutral,48.2%
+2026-03-27 18:35:21,It is okay not great,neutral,71.7%
+2026-03-27 18:35:21,Loved the quality,positive,69.1%
+2026-03-27 18:35:21,Worst purchase ever,negative,86.7%
+2026-03-27 18:50:40,This product is amazing,positive,80.7%
+2026-03-27 18:50:40,Very bad experience,neutral,48.2%
+2026-03-27 18:50:40,It is okay not great,neutral,71.7%
+2026-03-27 18:50:40,Loved the quality,positive,69.1%
+2026-03-27 18:50:40,Worst purchase ever,negative,86.7%
+2026-03-27 18:51:16,"This product is okay,nothing special.",positive,38.4%
+2026-03-27 18:56:46,This product is amazing,positive,80.7%
+2026-03-27 18:56:46,Very bad experience,neutral,48.2%
+2026-03-27 18:56:46,It is okay not great,neutral,71.7%
+2026-03-27 18:56:46,Loved the quality,positive,69.1%
+2026-03-27 18:56:46,Worst purchase ever,negative,86.7%
+2026-03-27 18:57:11,This product is good.,positive,38.4%
+2026-04-08 13:35:57,good,positive,38.4%
+2026-04-08 13:50:37,good,positive,38.4%
+2026-04-08 14:10:13,This product is amazing,positive,80.7%
+2026-04-08 14:10:13,Very bad quality,negative,55.2%
+2026-04-08 14:10:13,It is okay,neutral,85.4%
+2026-04-08 14:10:13,Loved it a lot,positive,80.0%
+2026-04-08 14:10:13,Not worth the price,positive,67.4%
+2026-04-08 14:16:46,good,positive,38.4%
+2026-04-08 14:50:08,good,positive,38.4%
